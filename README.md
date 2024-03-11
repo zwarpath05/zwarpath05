@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zwarpath05
+- 👋 Hi, I’m Brian
 - 👀 I’m interested in designing and development of apps
 - 🌱 I’m currently learning Javascript framework and libraries
 - 📫 How to reach me ... just pm me
